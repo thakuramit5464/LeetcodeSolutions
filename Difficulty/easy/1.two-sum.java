@@ -5,6 +5,9 @@ package Difficulty.easy;
  * [1] Two Sum
  */
 
+import java.util.HashMap;
+import java.util.Map;
+
 // @lc code=start
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
