@@ -1,3 +1,4 @@
+package Difficulty.easy;
 /*
  * @lc app=leetcode id=1 lang=java
  *
